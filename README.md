@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RafiyaT16
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and coding
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @linkedin
+- 💞️ I’m looking to collaborate on various Projects
+- 📫 How to reach me @www.linkedin.com/in/rafiyatambe
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am fond of designing.
 
